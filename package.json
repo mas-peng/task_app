@@ -1,0 +1,10 @@
+{
+  "name": "progresso",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --parallel --stream dev"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
